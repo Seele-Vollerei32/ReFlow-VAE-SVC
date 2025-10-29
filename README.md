@@ -15,7 +15,7 @@ python preprocess.py -c configs/reflow-vae-wavenet.yaml
 python train.py -c configs/reflow-vae-wavenet.yaml
 ```
 wavenet的Beta版底模可以在这里下载：https://huggingface.co/OOPPEENN/pretrained_model
-lynxnet的Bate版底模可以在这里下载：https://huggingface.co/tepetst3033/Reflow_VAE_SVC_retrained_model_with_lynxnet
+lynxnet的Beta版底模可以在这里下载：https://huggingface.co/tepetst3033/Reflow_VAE_SVC_retrained_model_with_lynxnet
 
 （3）非实时推理：
 
